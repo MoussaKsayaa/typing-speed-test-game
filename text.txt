@@ -1,0 +1,16 @@
+1- create Html content /deal
+2- styling the content /deal
+3- work on js file
+- make object for levels and thier words / deal
+- allows to the user choose the level he wants / deal
+- work on start game button and the level details message / deal
+- show the current word
+working on..
+- show the input field
+- show the words to take a fast look about the coming words
+- show the section that has the timer and the score
+- when the timer finish should check on the input
+- if the word is correct go to next one and add one to score
+- if the word is wrong throw popup saying game over and try again
+- when click on try again do refresh to the page
+- after refresh, show the results;
